@@ -1,0 +1,30 @@
+With all types of nouns,adjectives and determiners :
+With only 5 hearst patterns :
+Precision: 1.000000
+Recall:0.148148
+F-measure: 0.258065
+
+With 9 hearst patterns :
+Precision: 0.983871
+Recall:0.161376
+F-measure: 0.277273
+
+With no types of nouns, adjectives and determiners :
+Precision: 1.000000
+Recall:0.055556
+F-measure: 0.105263
+
+With no types of determines, only types of nouns  and adjectives :
+Precision: 1.000000
+Recall:0.148148
+F-measure: 0.258065
+
+With no types of determiners and adjectives , only types of nouns :
+Precision: 1.000000
+Recall:0.153439
+F-measure: 0.266055
+
+With no types of determiners and nouns , only types of adjectives :
+Precision: 1.000000
+Recall:0.052910
+F-measure: 0.100503

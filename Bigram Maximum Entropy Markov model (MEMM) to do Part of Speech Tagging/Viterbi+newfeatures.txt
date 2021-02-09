@@ -1,0 +1,20 @@
+OLD WITHOUT NEW FEATURES :
+['ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'VERB', '
+ADP', 'NOUN', '.', 'NOUN', '.']
+['DET', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NO
+UN', '.']
+['NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'A
+DP', 'DET', 'NOUN', 'PRT', 'VERB', u'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN',
+ '.']
+['PRON', 'VERB', 'PRT', 'VERB', 'ADP', 'DET', 'NOUN', '.']
+['NOUN', 'VERB', 'VERB', 'ADP', 'NUM', '.']
+NEW WITH NEW FEATURES
+['NOUN', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'VERB', 
+'ADP', 'NOUN', '.', 'NOUN', '.']
+['DET', 'NOUN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'N
+OUN', '.']
+['NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', '
+ADP', 'DET', 'ADJ', 'PRT', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADP', 'NOUN'
+, '.']
+['PRON', 'VERB', 'PRT', 'VERB', 'ADP', 'DET', 'NOUN', '.']
+['NOUN', 'VERB', 'VERB', 'ADP', 'NUM', '.']
